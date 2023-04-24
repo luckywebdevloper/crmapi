@@ -4,8 +4,8 @@
   "description": "",
   "type": "module",
   "main": "server.js",
-  "scripts": {
-    "dev": "nodemon --experimental-modules --es-module-specifier-resolution=node server.js",
+  "script": {
+
     "start": "node server.js"
   },
   "author": "",
